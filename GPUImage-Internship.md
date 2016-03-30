@@ -33,3 +33,4 @@ The position is based in our offices in the city centre of Dublin, Ireland, in a
 - Please send a e-mail to <gpuimage-internship@yapme.co> describing why you'd like to work with us, and how you could contribute to our goals; as well as a resume. For both: PDF, txt files, or HTML links only.
 - Links to GitHub or open source projects are also very welcome.
 - You'll get a reply from us either you fit or not. In the first case, we'll organise a call on Skype to know more about you, evaluate your technical and interpersonal skills, and let you ask any question about the internship opportunity.
+- **No agencies**
